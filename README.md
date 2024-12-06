@@ -1,2 +1,2 @@
 # ebook_python_alem_da_nuvem
-Desbloqueie o Poder dos Dados: Guia Prático Python é um eBook simples e acessível que ensina o essencial de Python com uma abordagem prática. Ideal para iniciantes, aborda variáveis, condicionais, loops, funções, manipulação de arquivos e bibliotecas. Tudo o que você precisa para dominar o básico e aplicar Python de forma eficiente!
+Python Além da Nuvem - Uma Jornada Encantadora é um eBook prático e acessível que ensina o essencial de Python. Ideal para iniciantes, explora variáveis, condicionais, loops, funções, manipulação de arquivos e bibliotecas, oferecendo tudo o que você precisa para dominar a linguagem e aplicá-la com confiança.
