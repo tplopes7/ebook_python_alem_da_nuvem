@@ -28,6 +28,3 @@ Desenvolvido como parte da minha jornada em IA, este material reflete minha paix
 - **Python como ferramenta** transformadora
 
 > "Escrevo para aprender duas vezes" — adaptado de Joseph Joubert
->
-> 🔍 **Preview:**  
-[![Capa do Ebook](capa.png)](ebook-python-alem-da-nuvem.pdf)
